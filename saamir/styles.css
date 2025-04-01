@@ -1,0 +1,46 @@
+.main{
+    display: block;
+    text-align: center;
+
+}
+.uu{
+    margin-right: 100px;
+}
+.dire{
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.student{
+   width: 150px;
+    background-color: #f0e51b;
+    color: rgb(0, 157, 255);
+    margin-left: auto;
+    margin-right: auto;
+    font: bold;
+}
+.abdi{
+    margin-top: 5px;
+    font-size: small;
+}
+.gender{
+    margin-top: -15px;
+}
+.ddu{
+    margin-top: -15px;
+}
+.depr{
+    margin-top: -15px
+}
+.ug{
+    margin-top: -15;
+}
+.par{
+    margin-top: -23px;
+    padding-top: -40px;
+height: 120px;
+width: 150px;
+}
+.number{
+    margin-top: -39px;
+    font:bold;
+}
